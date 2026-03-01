@@ -29,6 +29,8 @@ Before you begin, ensure you have the following installed:
 *   Node.js (v18 or higher)
 *   PostgreSQL with the `pgvector` extension enabled
 *   Ollama with `mistral` and `nomic-embed-text` models pulled
+*   `nomic-embed-text` is used to embedding the text into vector semantics
+*   `mistral` is the generative that generates answers
 
 ---
 
