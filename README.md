@@ -122,5 +122,5 @@ This project is [UNLICENSED](LICENSE).
 ---
 
 <p align="center">
-  Made with ❤️ for Advanced Agentic Coding
+  Made with ❤️ for Advanced Agentic Coding by Abhishek 😄
 </p>
